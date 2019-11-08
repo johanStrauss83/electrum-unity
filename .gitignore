@@ -21,7 +21,7 @@ bin/
 electrum/gui/kivy/theming/light-0.png
 electrum/gui/kivy/theming/light-1.png
 electrum/gui/kivy/theming/light.atlas
-develompentbuilds
+develompent_builds
 
 # tests/tox
 .tox/
